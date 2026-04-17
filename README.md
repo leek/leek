@@ -8,7 +8,7 @@ Hello World, I'm Chris!
 [![Website](https://skillicons.dev/icons?i=devto)](https://leek.io) &nbsp;
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/richardcjones/) &nbsp;
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/leek) &nbsp;
-[![X](https://skillicons.dev/icons?i=x)](https://x.com/leeked) &nbsp;
+[![X](https://skillicons.dev/icons?i=twitter)](https://x.com/leeked) &nbsp;
 [![StackOverflow](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/3765/leek) &nbsp;
 
 My Stack
