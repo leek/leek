@@ -14,7 +14,7 @@ Hello World, I'm Chris!
 My Stack
 --------
 
-![My Stack](https://skillicons.dev/icons?i=alpinejs,css,html,js,laravel,mysql,php,tailwind)
+![My Stack](https://skillicons.dev/icons?i=alpinejs,css,html,js,laravel,mysql,php,tailwind,aws,git,mysql)
 
 About Me
 --------
@@ -26,7 +26,7 @@ About Me
 - 📍 I am based in Charlotte, NC
 - 🔭 I am passionate about contributing to [open source](https://opensource.com/resources/what-open-source)
 - 🏆 I am top **3% overall** on [StackOverflow](https://stackoverflow.com/users/3765/leek)
-- 📝 I _sometimes_ write articles on my profile over at [Medium](https://medium.com/@leeked)
+- 📝 I _sometimes_ write articles on my blog over at [leek.io](https://leek.io/)
 
 <div align="center">
 
