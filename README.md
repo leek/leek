@@ -33,10 +33,14 @@ About Me
 My Stats
 --------
 
-<p>
-    <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=leek&show_icons=true&count_private=true&theme=dark&rank_icon=percentile" />&nbsp;&nbsp;
-    <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leek&layout=compact&theme=dark" />&nbsp;&nbsp;
-</p>
+<div align="center">
+  <a href="https://commit-history.com/leek">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/leek?theme=dark" />
+      <img alt="leek's commit history" src="https://commit-history.com/embed/leek" />
+    </picture>
+  </a>
+</div>
 
 When I'm AFK
 ------------
